@@ -1,0 +1,220 @@
+---
+title: |
+    | Types of Economic Goods
+    | 
+date: February 5, 2025
+author: "Tom Hanna"
+format: 
+        revealjs:
+                self-contained: true
+                code-fold: true
+                code-summary: "Show the code"
+                transition: convex
+                theme: [moon, custom.scss]
+editor: source
+---
+
+# Types of Economic Goods
+
+## Overview
+
+- Why do we need to know about types of economic goods?
+- What are the types of economic goods?
+- Examples and Practice
+- What was the first public good?
+
+
+
+## Why do we need to know about types of public goods
+
+- Collectively owned vs privately owned goods present different problems
+- Government is involved in all types of goods
+
+
+![If every tool is a hammer...](hammer.jpg)
+
+
+
+
+
+## Why do we need to know about types of public goods
+
+-   Collectively owned vs privately owned goods present different problems
+
+              + Optimal use - externalities in privately owned goods
+              
+## Externalities
+
+- An externality is a product of a transaction that is an *unintentional byproduct* and *not priced into the transaction*
+
+- Positive examples:
+
+        - education benefits society
+        
+- Negative examples
+
+        - Pollution from a factory
+
+           
+## Why do we need to know about types of public goods
+
+-   Collectively owned vs privately owned goods present different problems
+
+        + Optimal use - externalities in privately owned goods         
+        + Efficient use - incentives in collectively owned goods
+
+
+## Inefficiency in collective goods
+
+Example:
+
+- Budget Surpluses
+
+![budget surplus](budget_surplus.jpg)
+
+
+
+## Why do we need to know about types of public goods
+
+-   Collectively owned vs privately owned goods present different problems
+
+        + Optimal use - externalities in privately owned goods         
+        + Efficient use - incentives in collectively owned goods
+        + Common goods - overuse of resources
+        
+        
+## The Commons
+
+- Overuse of resources
+
+![Sheep on an overused common pasture](tragedy.jpg)
+
+
+
+
+## Why do we need to know about types of public goods
+
+- Collectively owned vs privately owned goods present different problems
+- Government is involved in all types of goods
+
+## Government and the types of goods
+
+- Private - protection of private property
+
+
+## Government and the types of goods
+
+- Private - protection of private property
+- Club - protection of private property
+
+
+## Government and the types of goods
+
+- Private - protection of private property
+- Club - protection of private property
+- Public - production and distribution
+
+
+## Government and the types of goods
+
+- Private - protection of private property
+- Club - protection of private property
+- Public - production and distribution
+- Common - management (or sometimes protection of private property)
+
+
+
+
+
+        
+        
+
+
+
+
+
+## Types of goods: defitions
+
+Two questions, two axes
+
+- Is the good excludable?
+
+
+
+# What is an example of an excludable good?
+
+## Example of excludable good
+
+![house with good fence and locks](house.jpg)
+
+
+## Types of goods: defitions
+
+Two questions, two axes
+
+- Is the good excludable?
+- Is the good rivalrous?
+
+
+# What is an example of a rivalrous good?
+
+
+
+## Examples of rivalrous goods
+
+![pizza](pizza.jpg)
+
+## Types of goods
+
+![Types of goods](goods_no_examples.jpg)
+
+## Types of goods
+
+![](examples.jpg)
+
+
+## Types of goods
+
+![Types of goods](goods_no_examples.jpg)
+
+
+## Types of economic goods: Examples
+
+![](Goods.jpg)
+
+
+## Market failure
+
+![market failure](market_failure.jpg)
+
+
+
+## What was the first public good provided by government?
+
+![](question_mark.jpg)
+
+## What was the first public good provided by government?
+
+![](security.jpg)
+
+
+## Image Credits
+
+[If your only tool is a hammer](https://www.google.com/imgres?q=if%20your%20only%20tool%20is%20a%20hammer&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFoS0KsaX0AItAHL.jpg&imgrefurl=https%3A%2F%2Fx.com%2FVaccinologist%2Fstatus%2F1622620533706588161&docid=wZUWd9sP8i__wM&tbnid=d2lk9ODqSTm7TM&vet=12ahUKEwian8GluamLAxU4L9AFHVgVJj8QM3oECGUQAA..i&w=693&h=559&hcb=2&ved=2ahUKEwian8GluamLAxU4L9AFHVgVJj8QM3oECGUQAA)
+
+[Tragedy of the Commons](https://www.google.com/imgres?q=tragedy%20of%20the%20commons%20sheep&imgurl=https%3A%2F%2Fwww.econlib.org%2Fwp-content%2Fuploads%2F2018%2F04%2FTragedy-of-the-Commons.jpg&imgrefurl=https%3A%2F%2Fwww.econlib.org%2Flibrary%2FEnc%2FTragedyoftheCommons.html&docid=GcIxfB3xmZ6t0M&tbnid=iIjxNs1kQDH16M&vet=12ahUKEwixv7q5uamLAxWwLdAFHQT3Oe4QM3oECHQQAA..i&w=1000&h=694&hcb=2&ved=2ahUKEwixv7q5uamLAxWwLdAFHQT3Oe4QM3oECHQQAA)
+
+[House](https://www.google.com/imgres?q=house%20with%20fence&imgurl=https%3A%2F%2Fmulhollandbrand.com%2Fwp-content%2Fuploads%2F2020%2F09%2FCurb-appeal.jpg&imgrefurl=https%3A%2F%2Fmulhollandbrand.com%2Feducation-center%2Ffence-your-property%2F&docid=MPAFUXjQr2zjHM&tbnid=e9Fj5ftcG8n5oM&vet=12ahUKEwjQrb3QuamLAxVM_skDHcMsIDkQM3oECFMQAA..i&w=600&h=338&hcb=2&ved=2ahUKEwjQrb3QuamLAxVM_skDHcMsIDkQM3oECFMQAA)
+
+
+[Types of goods](https://www.dyingeconomy.com/economic-goods.html)
+
+[Types of goods with examples](https://www.google.com/imgres?q=types%20of%20goods&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRtc4oYFR64g%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DRtc4oYFR64g%26pp%3DygUPI3NjYXJjZXByb2R1Y3Rz&docid=zdrdmYwW3qpD_M&tbnid=RtCgelEas-YFVM&vet=12ahUKEwjox9yIuamLAxVeMdAFHUKbPaoQM3oECBYQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwjox9yIuamLAxVeMdAFHUKbPaoQM3oECBYQAA)
+
+[Michael Scott budget surplus](https://www.google.com/imgres?q=michael%20scott%20budget%20surplus&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwDBkoE68aME%2Fhq720.jpg%3Fsqp%3D-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD%26rs%3DAOn4CLCsbhuWsNhWGWtSurkI2rUYkbfwww&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwDBkoE68aME&docid=4Ak3xuHxofCWzM&tbnid=iU9O1Ie0JFtldM&vet=12ahUKEwiF39TzuKmLAxWTLtAFHSHHAvMQM3oECE4QAA..i&w=686&h=386&hcb=2&ved=2ahUKEwiF39TzuKmLAxWTLtAFHSHHAvMQM3oECE4QAA)
+
+[Market failure](https://www.google.com/imgres?q=types%20of%20goods%20chart%20&imgurl=https%3A%2F%2Fwww.thoughtco.com%2Fthmb%2FYYuuoix-5J7zwAcZb2E1S-wd78A%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fpublic-goods-7-56a27d883df78cf77276a39c.JPG&imgrefurl=https%3A%2F%2Fwww.thoughtco.com%2Fexcludability-and-rivalry-in-consumption-1147876&docid=D22SWDqRAaKnBM&tbnid=qPuQt2QtvW_gDM&vet=12ahUKEwianIKUuqmLAxUSM9AFHcjJGhsQM3oECGUQAA..i&w=376&h=233&hcb=2&ved=2ahUKEwianIKUuqmLAxUSM9AFHcjJGhsQM3oECGUQAA)
+
+[?](https://www.google.com/imgres?q=question%20mark&imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20181119%2Flb%2Fkisspng-clip-art-question-mark-openclipart-vector-graphics-t-vn-gii-p-top-cu-hi-thng-1713920606069.webp&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-clip-art-question-mark-openclipart-vector-graphics-6831720%2F&docid=uAA2fIjvtM2zXM&tbnid=3o5ScBIZUKfPQM&vet=12ahUKEwiwgdKmuqmLAxUtHNAFHR40PCwQM3oECEgQAA..i&w=900&h=900&hcb=2&ved=2ahUKEwiwgdKmuqmLAxUtHNAFHR40PCwQM3oECEgQAA)
+
+ [Security](https://www.google.com/search?num=10&sca_esv=0a5e971aa2c41f32&biw=1513&bih=731&hl=en&sxsrf=AHTn8zpJ4IzmdluaPHxO9Nr46ptQATY05w:1738652843768&udm=48&si=APYL9buGmpQYpE6338c1FuRm_huDhoS-SW7UwUk0c_FqJnHYAdXy75cy21r0nXDWc0BvJ8wHzPrh_tJq4rT26MipAJGPwGYd8JyBg_FQzTHyAKvKBW8zkISPCOqmfShPKUpJNCwqHUyGorpXT729pUdi9hufjNVIrNiltDiJO-ZcOcCW05IhJ5bY3LHg1TIXy_NfStfNvDA6&vsint=CAIqDAoCCAcSAggiGAAgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABEOgHGJoFJQAAgD8&vsrid=CI2574j5_____wEQAhgBIiRjZDMyY2IyYi04ODQwLTQ4ZGQtOTE3OS0xYjljMGU3OWQwNzk&gsessionid=CP1tlOD8VzgGyu0gE9bSXsh6PvdWpYRpvWz-Jv1LzdbpTI4AVJkVmA&lsessionid=j-xx0un7ODwyAp1dO9Kifg-bDWOFCx-J7oxqkbNDUDgFffaR6VR9Bw&vsdim=1000,666&lns_mode=un&source=lns.web.gsbubb&sa=X&ved=2ahUKEwic0Y_JuqmLAxUJtYQIHfr9GfsQpOwNegQIMBAA)
